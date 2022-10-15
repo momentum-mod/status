@@ -1,11 +1,12 @@
 # Change these first
 owner: momentum-mod # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+skipTopicsUpdate: true
 
 sites:
   - name: API
     url: https://api.momentum-mod.org/api-docs/
-    favicon: https://momentum-mod.org/favicon.ico
+    icon: https://momentum-mod.org/favicon.ico
   - name: Main Site
     url: https://momentum-mod.org
   - name: Docs Site
@@ -18,9 +19,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.momentum-mod.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/momentum-mod/status/master/assets/1000_nobg.png
   name: Momentum Mod Status
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
