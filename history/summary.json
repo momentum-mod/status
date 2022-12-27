@@ -58,9 +58,9 @@
     "url": "https://blog.momentum-mod.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.momentum-mod.org.ico",
     "slug": "blog-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 171,
     "timeMonth": 266,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   }
 ]
