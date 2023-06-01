@@ -4,18 +4,20 @@
     "url": "https://api.momentum-mod.org/api-docs/",
     "icon": "https://momentum-mod.org/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 423,
-    "timeWeek": 378,
-    "timeMonth": 343,
+    "timeDay": 0,
+    "timeWeek": 397,
+    "timeMonth": 341,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "Main Site",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 235,
-    "timeWeek": 206,
-    "timeMonth": 204,
-    "timeYear": 196,
+    "time": 197,
+    "timeDay": 271,
+    "timeWeek": 210,
+    "timeMonth": 209,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 101,
-    "timeWeek": 157,
-    "timeMonth": 201,
+    "timeDay": 274,
+    "timeWeek": 161,
+    "timeMonth": 205,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -65,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 220,
-    "timeWeek": 166,
-    "timeMonth": 175,
+    "timeDay": 98,
+    "timeWeek": 167,
+    "timeMonth": 174,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2022-12-27": 10
