@@ -5,15 +5,15 @@
     "icon": "https://momentum-mod.org/favicon.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "50.11%",
+    "uptime": "50.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.97%",
+    "uptimeYear": "28.24%",
     "time": 326,
-    "timeDay": 316,
-    "timeWeek": 373,
-    "timeMonth": 354,
+    "timeDay": 312,
+    "timeWeek": 376,
+    "timeMonth": 356,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-04-27": 1413,
@@ -275,8 +275,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -291,9 +290,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 297,
-    "timeWeek": 255,
-    "timeMonth": 250,
+    "timeDay": 282,
+    "timeWeek": 251,
+    "timeMonth": 251,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2023-10-30": 14
@@ -310,10 +309,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 168,
-    "timeWeek": 210,
-    "timeMonth": 239,
+    "time": 219,
+    "timeDay": 371,
+    "timeWeek": 217,
+    "timeMonth": 238,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2023-10-30": 14,
@@ -331,10 +330,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 200,
-    "timeWeek": 195,
-    "timeMonth": 203,
+    "time": 196,
+    "timeDay": 321,
+    "timeWeek": 220,
+    "timeMonth": 207,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2023-10-30": 14
