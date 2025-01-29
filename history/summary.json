@@ -4,7 +4,7 @@
     "url": "https://staging-api.momentum-mod.org/health",
     "icon": "https://momentum-mod.org/favicon.ico",
     "slug": "staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "93.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 555,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2025-01-27": 359,
       "2025-01-26": 158,
       "2025-01-21": 37,
