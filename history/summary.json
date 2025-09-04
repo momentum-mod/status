@@ -5,15 +5,15 @@
     "icon": "https://momentum-mod.org/favicon.ico",
     "slug": "staging-api",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "98.24%",
-    "time": 632,
-    "timeDay": 589,
-    "timeWeek": 634,
-    "timeMonth": 772,
+    "time": 631,
+    "timeDay": 568,
+    "timeWeek": 606,
+    "timeMonth": 770,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-08-17": 107,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 314,
-    "timeWeek": 383,
-    "timeMonth": 412,
+    "timeDay": 309,
+    "timeWeek": 351,
+    "timeMonth": 406,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -69,17 +69,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.91%",
-    "time": 590,
-    "timeDay": 582,
-    "timeWeek": 632,
-    "timeMonth": 599,
+    "time": 591,
+    "timeDay": 644,
+    "timeWeek": 624,
+    "timeMonth": 600,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-08-17": 107,
       "2025-04-17": 211,
       "2024-10-17": 115,
-      "2024-10-10": 11,
-      "2024-09-04": 29
+      "2024-10-10": 11
     }
   }
 ]
