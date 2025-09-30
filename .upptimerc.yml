@@ -11,10 +11,6 @@ sites:
     url: https://api.momentum-mod.org/api-docs/
     icon: https://momentum-mod.org/favicon.ico
     showAverageResponseTime: false
-  - name: Wiki
-    url: https://wiki.momentum-mod.org
-    icon: https://momentum-mod.org/favicon.ico
-    showAverageResponseTime: false
 
 status-website:
   cname: status.momentum-mod.org
