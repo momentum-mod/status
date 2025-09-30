@@ -4,16 +4,16 @@
     "url": "https://staging-api.momentum-mod.org/health",
     "icon": "https://momentum-mod.org/favicon.ico",
     "slug": "staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "98.25%",
     "time": 628,
-    "timeDay": 959,
-    "timeWeek": 622,
-    "timeMonth": 584,
+    "timeDay": 775,
+    "timeWeek": 599,
+    "timeMonth": 579,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2025-09-17": 15,
@@ -46,18 +46,18 @@
     "icon": "https://momentum-mod.org/favicon.ico",
     "slug": "main-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "57.92%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.88%",
     "time": 357,
     "timeDay": 247,
     "timeWeek": 326,
     "timeMonth": 368,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2025-09-30": 4
+      "2025-09-30": 606
     }
   }
 ]
