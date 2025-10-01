@@ -5,11 +5,11 @@ skipTopicsUpdate: true
 sites:
   - name: Staging API
     url: https://staging-api.momentum-mod.org/health
-    icon: https://momentum-mod.org/favicon.ico
+    icon: https://momentum-mod.org/assets/favicon.ico
     showAverageResponseTime: false
   - name: Main API
     url: https://api.momentum-mod.org/api-docs/
-    icon: https://momentum-mod.org/favicon.ico
+    icon: https://momentum-mod.org/assets/favicon.ico
     showAverageResponseTime: false
 
 status-website:
