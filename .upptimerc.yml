@@ -15,7 +15,7 @@ sites:
 status-website:
   cname: status.momentum-mod.org
   logoUrl: https://raw.githubusercontent.com/momentum-mod/status/master/assets/1000_nobg.png
-  favicon: https://momentum-mod.org/favicon.png
+  favicon: https://momentum-mod.org/assets/favicon.png
   name: Momentum Mod Status
   theme: night
   navbar:
