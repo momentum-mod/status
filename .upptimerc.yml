@@ -8,7 +8,7 @@ sites:
     icon: https://momentum-mod.org/assets/favicon.ico
     showAverageResponseTime: false
   - name: Main API
-    url: https://api.momentum-mod.org/api-docs/
+    url: https://api.momentum-mod.org/health
     icon: https://momentum-mod.org/assets/favicon.ico
     showAverageResponseTime: false
 
