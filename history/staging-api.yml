@@ -1,7 +1,7 @@
 url: https://staging-api.momentum-mod.org/health
-status: up
-code: 204
-responseTime: 516
-lastUpdated: 2025-11-17T23:15:56.057Z
+status: down
+code: 500
+responseTime: 243
+lastUpdated: 2025-11-18T11:35:06.256Z
 startTime: 2024-08-11T08:12:13.779Z
 generator: Upptime <https://github.com/upptime/upptime>
