@@ -1,7 +1,7 @@
 url: https://api.momentum-mod.org/health
-status: up
-code: 204
-responseTime: 532
-lastUpdated: 2026-04-17T23:36:40.635Z
+status: down
+code: 502
+responseTime: 26937
+lastUpdated: 2026-04-18T19:03:09.511Z
 startTime: 2024-08-11T08:12:14.605Z
 generator: Upptime <https://github.com/upptime/upptime>
